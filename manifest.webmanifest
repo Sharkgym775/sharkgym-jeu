@@ -1,0 +1,17 @@
+{
+  "name": "SharkGym — La Chasse aux Cartes",
+  "short_name": "SharkGym",
+  "description": "Jeu d'arcade du requin SharkGym : esquive les obstacles et collectionne les cartes!",
+  "lang": "fr-CA",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#021a3a",
+  "theme_color": "#063a73",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
